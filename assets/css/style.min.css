@@ -35,7 +35,7 @@
     background-color:#36f3d2;
     border:none;
     outline:0;
-    font-size:14px;
+    font-size:29px;
     border-radius:20px;
     width:180px;
     cursor:pointer
@@ -67,25 +67,25 @@
    .nav {
     display:flex;
     flex-direction:column;
-    margin:21px 29px
+    margin:10px 29px
    }
    .nav ul {
     display:flex;
     list-style:none
    }
    .nav ul li {
-    margin-left:30px
+    margin-left:20px
    }
    .nav ul li a {
     color:#fff;
-    font-size:15px;
+    font-size:20px;
     text-shadow:rgb(0 0 0 / 60%) 0 4px 8px;
     text-decoration:none
    }
    .nav p {
     margin-top:0;
     text-align:right;
-    font-size:13.5px;
+    font-size:17.5px;
     text-shadow:rgb(0 0 0 / 60%) 0 4px 8px
    }
    .content {
@@ -99,12 +99,12 @@
    }
    .content h2 {
     margin-top:42px;
-    font-size:28px;
+    font-size:48px;
     text-shadow:rgb(0 0 0 / 60%) 0 4px 8px
    }
    .content p {
     margin-top:0;
-    font-size:14px;
+    font-size:18px;
     text-shadow:rgb(0 0 0 / 60%) 0 4px 8px
    }
    .form-inputs {
@@ -139,7 +139,7 @@
     margin:0 45px
    }
    #btn_swap {
-    margin-top:20px
+    margin-top:25px
    }
    .status {
     margin-top:65px
